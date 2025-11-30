@@ -2,7 +2,7 @@
 
 <h1><b>👁️ StreamGaze</b>: Gaze-Guided Temporal Reasoning<br/>and Proactive Understanding in Streaming Videos</h1>
 
-<img src="assets/main_streamgaze.png" width="100%"/>
+<video src="assets/video_4k.mp4" width="100%" autoplay loop muted playsinline></video>
 
 <br />
 
