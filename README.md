@@ -12,7 +12,7 @@
 <a href="https://streamgaze.github.io" target="_blank">
     <img alt="Website" src="https://img.shields.io/badge/🌎_Website-StreamGaze-blue.svg" height="20" />
 </a>
-<a href="https://huggingface.co/datasets/streamgaze/streamgaze" target="_blank">
+<a href="https://huggingface.co/datasets/danaleee/StreamGaze" target="_blank">
     <img alt="HF Dataset" src="https://img.shields.io/badge/%F0%9F%A4%97%20_Benchmark-StreamGaze--Bench-ffc107?color=ffc107&logoColor=white" height="20" />
 </a>
 
@@ -42,7 +42,7 @@
 
 ## 📰 News
 
-- **`2025-12-XX`** 🚀 StreamGaze benchmark and evaluation code released!
+- **`2025-12-01`** 🚀 StreamGaze benchmark and evaluation code released!
 
 ## 📋 Contents
 
@@ -114,6 +114,7 @@ Models must anticipate future events and proactively respond—the most challeng
 - **Object Appearance Alert (OAA)**: Alert when a target object appears in the scene 
 
 
+### Results 
 <img src="assets/table.png" width="100%"/>
 
 
