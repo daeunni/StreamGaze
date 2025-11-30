@@ -67,14 +67,6 @@
 
 ## 📊 StreamGaze Benchmark
 
-### Overview
-
-**StreamGaze** is a comprehensive benchmark designed to evaluate multimodal large language models (MLLMs) on gaze-guided temporal reasoning in streaming egocentric videos. Unlike traditional video understanding benchmarks that focus on isolated clips, StreamGaze evaluates models' ability to:
-
-- 🔙 **Remember the past**: Recall objects, actions, and gaze patterns from earlier in the video
-- 👁️ **Understand the present**: Identify what users are currently looking at and why
-- 🔮 **Anticipate the future**: Predict upcoming actions and proactively alert users
-- 🎯 **Leverage gaze**: Use human attention patterns to understand user intent
 
 ### Dataset Statistics
 
@@ -91,6 +83,7 @@
 
 ### Task Categories
 
+<img src="assets/main_streamgaze.png" width="100%"/>
 
 #### 🔙 **Past Tasks**: Memory & Temporal Recall
 Models must remember and reason about events that occurred earlier in the video stream.
