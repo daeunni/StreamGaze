@@ -1,0 +1,16 @@
+.DS_Store
+dataset/
+models/
+results/
+__pycache__/
+*.pyc
+*.pyo
+.vscode/
+.idea/
+
+# Pipeline outputs and raw data
+pipeline/final_data/
+pipeline/raw_gaze_dataset/
+
+# ViSpeak model (contains internal paths)
+src/vispeak/

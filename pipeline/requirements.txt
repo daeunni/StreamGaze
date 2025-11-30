@@ -1,0 +1,15 @@
+pandas 
+torch
+torchvision
+torchaudio
+transformers
+tqdm 
+opencv-python
+nncore
+matplotlib
+imageio
+einops
+timm
+accelerate
+flash-attn
+pillow
