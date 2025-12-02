@@ -244,11 +244,14 @@ bash pipeline.sh --dataset egtea
 If you find StreamGaze useful in your research, please consider citing our work:
 
 ```bibtex
-@article{lee2025streamgaze,
-    title={{StreamGaze: Gaze-Guided Temporal Reasoning and Proactive Understanding in Streaming Videos}},
-    author={Lee, Daeun and Mukherjee, Subhojyoti and Kveton, Branislav and Rossi, Ryan A. and Lai, Viet Dac and Yoon, Seunghyun and Bui, Trung and Dernoncourt, Franck and Bansal, Mohit},
-    journal={arXiv preprint arXiv:XXXX.XXXXX},
-    year={2024}
+@misc{lee2025streamgazegazeguidedtemporalreasoning,
+      title={StreamGaze: Gaze-Guided Temporal Reasoning and Proactive Understanding in Streaming Videos}, 
+      author={Daeun Lee and Subhojyoti Mukherjee and Branislav Kveton and Ryan A. Rossi and Viet Dac Lai and Seunghyun Yoon and Trung Bui and Franck Dernoncourt and Mohit Bansal},
+      year={2025},
+      eprint={2512.01707},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2512.01707}, 
 }
 ```
 
