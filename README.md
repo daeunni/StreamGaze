@@ -261,11 +261,11 @@ If you find StreamGaze useful in your research, please consider citing our work:
 
 We thank the following projects and datasets that made StreamGaze possible:
 
-- **EGTEA Gaze+** - Egocentric action recognition with gaze
-- **Ego4D** - Large-scale egocentric video dataset
-- **EgoExo4D** - Simultaneous egocentric and exocentric views
-- **StreamingBench** - Evaluation framework for streaming video understanding
-
+- **EGTEA Gaze+** 
+- **EgoExoLearn**
+- **HoloAssist** 
+- **StreamingBench** 
+  
 We also thank the open-source community for providing excellent multimodal models:
 - ViSpeak, InternVL, Qwen-VL, LLaVA-OneVision, Video-LLaMA, and many others
 
