@@ -42,6 +42,7 @@
 
 ## 📰 News
 
+- **`2026-02-21`** 🚀 StreamGaze is accepted to **CVPR 2026**! See you in Denver!
 - **`2025-12-01`** 🚀 StreamGaze benchmark and evaluation code released!
 
 ## 📋 Contents
