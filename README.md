@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1><b>👁️ StreamGaze</b>: Gaze-Guided Temporal Reasoning<br/>and Proactive Understanding in Streaming Videos</h1>
+<h1><b>👁️ StreamGaze</b>: Gaze-Guided Temporal Reasoning<br/>and Proactive Understanding in Streaming Videos (NeurIPS 2026) </h1>
 
 <img src="assets/demo_video_gif.gif" width="100%"/>
 
@@ -41,7 +41,7 @@
 ---
 
 ## 📰 News
-
+- **`2026-09-24`** 🚀 StreamGaze is finally accepted to NeurIPS 2026! 🇦🇺
 - **`2025-12-01`** 🚀 StreamGaze benchmark and evaluation code released!
 
 ## 📋 Contents
