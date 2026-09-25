@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1><b>👁️ StreamGaze</b>: Gaze-Guided Temporal Reasoning<br/>and Proactive Understanding in Streaming Videos (NeurIPS 2026) </h1>
+<h1><b>👁️ StreamGaze</b>: Gaze-Guided Temporal Reasoning<br/>and Proactive Understanding in Streaming Videos [NeurIPS 2026] </h1>
 
 <img src="assets/demo_video_gif.gif" width="100%"/>
 
